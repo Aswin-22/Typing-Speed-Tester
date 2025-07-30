@@ -36,7 +36,7 @@ It includes:
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/<your-username>/TypingSpeedTester.git
+git clone https://github.com/Aswin-22/Typing-Speed-Tester.git
 cd TypingSpeedTester
 ````
 
